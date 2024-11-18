@@ -1,0 +1,2 @@
+# LearningSequenceAidsWithLLM
+LLMを用いた学習シーケンス補助ツール
